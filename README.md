@@ -1,2 +1,4 @@
-# Teste 2
- repositório criado para o curso de git/github do Guanabara
+# Curso 1
+ repositório criado para treinamento no curso de git/github do Guanabara
+
+ Olá, mundo!
